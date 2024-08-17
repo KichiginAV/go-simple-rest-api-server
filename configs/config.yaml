@@ -1,0 +1,8 @@
+listen_http: :4000
+database:
+  port: 5432
+  user: postgres
+  password: postgres
+  address: localhost
+  db: simple-base
+  driver: postgres
